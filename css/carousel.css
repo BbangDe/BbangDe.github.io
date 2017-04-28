@@ -77,8 +77,13 @@ body {
   margin-left: 10px;
 }
 .marketing .journal-list {
-	position: relative;
+	position: absolute;
 	top: 200px;
+}
+
+.marketing .copy-text {
+	position: absolute;
+	bottom: 0px;
 }
 
 
