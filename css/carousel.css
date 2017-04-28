@@ -76,6 +76,10 @@ body {
   margin-right: 10px;
   margin-left: 10px;
 }
+.marketing .journal-list {
+	position: absolute;
+	top: 20;
+}
 
 
 /* Featurettes
